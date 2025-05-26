@@ -38,7 +38,7 @@ This Agreement shall be governed by and construed in accordance with the laws of
 If you have any questions about this EULA, please contact:
 
 **ByteGlow GmbH**
-Email: support@byteglow.io
+Email: [support@byteglow.io](mailto:support@byteglow.io)
 Website: [https://byteglow.io](https://byteglow.io)
 
 ## 10. Survival

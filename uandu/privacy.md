@@ -68,7 +68,7 @@ You may request deletion of your account and all associated data at any time thr
 **ByteGlow GmbH**
 Bahnhof-Park 1
 6340 Baar, Switzerland
-Email: support@byteglow.io
+Email: [support@byteglow.io](mailto:support@byteglow.io)
 Website: https://byteglow.io
 
 *Note: For privacy-related inquiries, we recommend contacting us by email for the fastest response.*

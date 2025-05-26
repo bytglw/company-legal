@@ -48,5 +48,5 @@ We may update these Terms from time to time. If we make material changes, we wil
 If you have questions about these Terms, please contact:
 
 **ByteGlow GmbH**
-Email: support@byteglow.io
-Website: https://byteglow.io
+Email: [support@byteglow.io](mailto:support@byteglow.io)
+Website: [https://byteglow.io](https://byteglow.io)
